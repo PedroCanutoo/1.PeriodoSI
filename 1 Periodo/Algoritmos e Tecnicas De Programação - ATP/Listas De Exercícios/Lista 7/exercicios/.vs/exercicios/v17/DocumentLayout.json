@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A229CE-A1C1-4644-A1DE-991D5BE3B58E}|10\\10.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A229CE-A1C1-4644-A1DE-991D5BE3B58E}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B3DD88-64AC-49F2-B78C-E347B57BA0DA}|9\\9.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B3DD88-64AC-49F2-B78C-E347B57BA0DA}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EA0D8C-91E5-458F-A9A9-CD91D77FB55C}|8\\8.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EA0D8C-91E5-458F-A9A9-CD91D77FB55C}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70A1519-B4D2-40BA-B644-69F5E6859626}|7\\7.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70A1519-B4D2-40BA-B644-69F5E6859626}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEF6DB7-FF4B-4713-874C-B1BA81E25DCE}|6\\6.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEF6DB7-FF4B-4713-874C-B1BA81E25DCE}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90396790-169A-40D6-AA4D-D66CCFE11530}|5\\5.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90396790-169A-40D6-AA4D-D66CCFE11530}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D31FBAF-F0B5-4EDE-9867-08301F4A9F70}|4\\4.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D31FBAF-F0B5-4EDE-9867-08301F4A9F70}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F76C0B-4442-4403-AB30-B5688EFE0C1F}|3\\3.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F76C0B-4442-4403-AB30-B5688EFE0C1F}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0932B38B-7153-4EBB-A996-C701E783B52D}|2\\2.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0932B38B-7153-4EBB-A996-C701E783B52D}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326F6AB-066D-4AFE-AE17-CF462921FB6D}|1\\1.csproj|c:\\users\\pedro\\onedrive\\\u00E1rea de trabalho\\sistemas de informa\u00E7\u00E3o - pucminas\\1 per\u00EDodo\\algoritmos e tecnicas de programa\u00E7\u00E3o - atp\\listas de exerc\u00EDcios\\lista 7\\exercicios\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326F6AB-066D-4AFE-AE17-CF462921FB6D}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:07:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:07:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\8\\Program.cs",
+              "RelativeDocumentMoniker": "8\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\8\\Program.cs",
+              "RelativeToolTip": "8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:07:11.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:07:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:06:45.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:06:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:06:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:05:18.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:05:03.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\\u00C1rea de Trabalho\\Sistemas de Informa\u00E7\u00E3o - PUCMINAS\\1 Per\u00EDodo\\Algoritmos e Tecnicas De Programa\u00E7\u00E3o - ATP\\Listas De Exerc\u00EDcios\\Lista 7\\exercicios\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:04:45.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
